@@ -11,7 +11,7 @@ project_data.xlsx: Dataset used for decision-making and estimation tasks (will u
 
 Visuals (Power BI dashboards, Canva diagrams if applicable).
 
-![Module 1](https://github.com/SouravMukharjee/Analyticsl-Project-Management/blob/main/1.jpeg?raw=true)
+![Module 1](https://github.com/SouravMukharjee/Analyticsl-Project-Management/blob/main/1.PNG?raw=true)
 
 📈 Key Topics Covered
 Analytical approach to project planning and monitoring
