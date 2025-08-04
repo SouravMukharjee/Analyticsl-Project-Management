@@ -1,8 +1,9 @@
-**📘 Project Title: Analytics in Project Management
-**📌 Overview
+📘 **Project Title: Analytics in Project Management**
+
+📌 **Overview**
 This repository contains materials related to the Analytics in Project Management (ISAN3010) course at the University of Vaasa. It includes a detailed learning diary and analytical tasks supported by practical data analysis in Excel. The project reflects the personal learning journey of Sourav Mukharjee, who completed this course in 2023 as part of the Master's programme in Industrial Systems Analytics.
 
-📚 Contents
+📚 **Contents**
 Analytical Project Management.ipynb: Python notebook with code implementations.
 
 Learning Diary.pdf: Personal learning reflections across the 8 modules.
@@ -11,9 +12,10 @@ project_data.xlsx: Dataset used for decision-making and estimation tasks (will u
 
 Visuals (Power BI dashboards, Canva diagrams if applicable).
 
-![Module 2 Visual](https://github.com/SouravMukharjee/Analyticsl-Project-Management/blob/main/2.jpeg?raw=true)
+![Module 1 Visual](https://github.com/SouravMukharjee/Analyticsl-Project-Management/blob/main/1.png?raw=true)
 
-📈 Key Topics Covered
+
+📈 **Key Topics Covered**
 Analytical approach to project planning and monitoring
 
 Data-driven decision making
@@ -28,7 +30,7 @@ Competence analytics and data visualization (e.g., Power BI)
 
 Contemporary tools and trends (e.g., Agile analytics, emerging tech)
 
-🛠 Tools & Technologies
+🛠 **Tools & Technologies**
 Python (Jupyter Notebook)
 
 Excel
@@ -39,7 +41,9 @@ Canva
 
 GitHub
 
-🎓 Learning Outcomes
+![Module 2 Visual](https://github.com/SouravMukharjee/Analyticsl-Project-Management/blob/main/2.jpeg?raw=true)
+
+🎓 **Learning Outcomes**
 This repository is a reflection of mastering:
 
 Structuring projects with analytical methods
@@ -51,3 +55,6 @@ Visualizing data to support project decisions
 Integrating business analytics into project lifecycle
 
 Enhancing project maturity awareness
+
+![Module 3 Visual](https://github.com/SouravMukharjee/Analyticsl-Project-Management/blob/main/3.jpeg?raw=true)
+
